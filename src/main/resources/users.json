@@ -1,0 +1,23 @@
+[
+  {
+    "account": "admin",
+    "password": "1234",
+    "role": "admin"
+  },
+  {
+    "account": "01500200100",
+    "password": "1234",
+    "role": "customer"
+  },
+  {
+    "account": "01500200101",
+    "password": "1234",
+    "role": "customer"
+  },
+  {
+    "account": "01500200200",
+    "password": "1234",
+    "role": "agent"
+  }
+
+]
