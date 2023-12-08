@@ -19,7 +19,7 @@ public class Login {
             String role = userObj.get("role").toString();
             routeMenu.getMenu(role);
         } else {
-            System.out.println("no user found");
+            System.out.println("Invalid credentials");
         }
     }
 }

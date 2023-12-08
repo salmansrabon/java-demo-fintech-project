@@ -24,9 +24,7 @@ public class Utils {
                     if (userObject.get("account").equals(accNo) && userObject.get("password").equals(password)){
                         return userObject;
                     }
-                    else{
-                        System.out.println("Wrong creds!");
-                    }
+
                 }
 
             }
